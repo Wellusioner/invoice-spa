@@ -39,7 +39,7 @@ const Home = ({ history }) => {
             key: 'date_created',
         },
         {
-            title: 'No',
+            title: 'Number',
             dataIndex: 'number',
             key: 'number',
         },
