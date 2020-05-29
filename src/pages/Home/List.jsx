@@ -52,7 +52,7 @@ const Home = ({ history }) => {
             title: 'Message',
             dataIndex: 'comment',
             key: 'comment',
-            render: text => <div>{text.slice(0,50)}...</div>
+            render: text => text.length > 80 ? <div>{text.slice(0,80)}...</div> : text
         },
         {
             title: 'Action',

@@ -5,28 +5,28 @@
       "number": 654656,
       "date_created": "2020-05-26",
       "date_supply": "2020-05-27",
-      "comment": "The message goes here"
+      "comment": "You never really learn much from hearing yourself speak."
     },
     {
       "id": "9d3f7bae-cffa-4b90-92cc-b5ef8181d279",
       "number": 86785675,
       "date_created": "2020-05-31",
       "date_supply": "2020-05-20",
-      "comment": "This is a message that should change after updating"
+      "comment": "Better ideas come from better people"
     },
     {
       "id": "f4800fd4-573e-4394-b7d4-9a05ce5137b0",
       "number": 312423,
       "date_created": "2020-06-01",
       "date_supply": "2020-05-20",
-      "comment": "This is just testing"
+      "comment": "Let's make the world a better place"
     },
     {
       "id": "81b27ed7-02ec-4fd1-bc38-3376cea0ea5d",
       "number": 87756867986,
       "date_created": "2020-06-02",
       "date_supply": "2020-05-31",
-      "comment": "testing message for this comment"
+      "comment": "People might limit me. But I don't limit myself"
     }
   ]
 }
