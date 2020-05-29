@@ -1,0 +1,32 @@
+{
+  "invoices": [
+    {
+      "id": "15310ce1-5cf1-4e03-9dd7-54c3a33a50af",
+      "number": 654656,
+      "date_created": "2020-05-26",
+      "date_supply": "2020-05-27",
+      "comment": "The message goes here"
+    },
+    {
+      "id": "9d3f7bae-cffa-4b90-92cc-b5ef8181d279",
+      "number": 86785675,
+      "date_created": "2020-05-31",
+      "date_supply": "2020-05-20",
+      "comment": "This is a message that should change after updating"
+    },
+    {
+      "id": "f4800fd4-573e-4394-b7d4-9a05ce5137b0",
+      "number": 312423,
+      "date_created": "2020-06-01",
+      "date_supply": "2020-05-20",
+      "comment": "This is just testing"
+    },
+    {
+      "id": "81b27ed7-02ec-4fd1-bc38-3376cea0ea5d",
+      "number": 87756867986,
+      "date_created": "2020-06-02",
+      "date_supply": "2020-05-31",
+      "comment": "testing message for this comment"
+    }
+  ]
+}
